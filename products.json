@@ -1,0 +1,30 @@
+[{
+    "name":"iPhone 9",    
+    "price":549,
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"Samsumng Galaxy 10",    
+    "price":123,
+    "featured":false,
+    "company":"samsumng"
+},
+{
+    "name":"Apple Watch",    
+    "price":340,
+    "featured":true,
+    "company":"apple"
+},
+{
+    "name":"MI Note",    
+    "price":129,
+    "featured":false,
+    "company":"mi"
+},
+{
+    "name":"Dell",    
+    "price":298,
+    "feature":true,
+    "company":"dell"
+}]
